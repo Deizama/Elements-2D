@@ -376,3 +376,480 @@ Received Import Request.
 Start importing Assets/Prefab/Decor/PierreRuniqueActive.prefab using Guid(774a2f2a0d58c4a4ebd73ac4a3536a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae67e1e4966300b8711483bc4e3b95cf') in 0.014974 seconds
   Import took 0.019783 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 26523.079327 seconds.
+  path: Assets/Prefab/Decor/PierreRunique.prefab
+  artifactKey: Guid(b6141a3ae82c20d4987ebd11c8939e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Decor/PierreRunique.prefab using Guid(b6141a3ae82c20d4987ebd11c8939e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec88af9c94cb770cf99dba5e5e8a7b97') in 0.098056 seconds
+  Import took 0.233072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.489466 seconds.
+  path: Assets/Prefab/Decor/PierreRuniqueActive.prefab
+  artifactKey: Guid(774a2f2a0d58c4a4ebd73ac4a3536a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Decor/PierreRuniqueActive.prefab using Guid(774a2f2a0d58c4a4ebd73ac4a3536a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295034a0cb9932081caf53a09c4695ad') in 0.011762 seconds
+  Import took 0.039054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2490.201286 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a72893018b0fdde5ad8182c8ca02e1f') in 0.031437 seconds
+  Import took 0.035856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.494996 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d46983dc87477f7cd2c8f3be91a301a') in 0.034859 seconds
+  Import took 0.046420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.702241 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4641bcf336b00325ccdd40d962e3db') in 0.013594 seconds
+  Import took 0.033043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.904636 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f108903c12f63c2a0249b70249daba') in 0.052885 seconds
+  Import took 0.057973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.448310 seconds.
+  path: Assets/Art/Attacks/Slash_0.controller
+  artifactKey: Guid(c5aaf0ef167a7cd479175915a5a00281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash_0.controller using Guid(c5aaf0ef167a7cd479175915a5a00281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1feddedd117e1e5daed70ba1333ce118') in 0.011786 seconds
+  Import took 0.018724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002570 seconds.
+  path: Assets/Art/Attacks/Slash_0.controller
+  artifactKey: Guid(c5aaf0ef167a7cd479175915a5a00281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash_0.controller using Guid(c5aaf0ef167a7cd479175915a5a00281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1feddedd117e1e5daed70ba1333ce118') in 0.005668 seconds
+  Import took 0.010170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.522788 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca597aea313fd8f177189612a018fbf') in 0.008877 seconds
+  Import took 0.014195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062220 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca597aea313fd8f177189612a018fbf') in 0.006796 seconds
+  Import took 0.016353 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004487 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.6 MB.
+System memory in use after: 101.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2705.
+Total: 3.837400 ms (FindLiveObjects: 0.285500 ms CreateObjectMapping: 0.109000 ms MarkObjects: 3.325400 ms  DeleteObjects: 0.116100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.331808 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90777bf37d6da1dd8be09d9e92053d75') in 0.016172 seconds
+  Import took 0.927519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.464808 seconds.
+  path: Assets/Art/Attacks/Slash_0.controller
+  artifactKey: Guid(c5aaf0ef167a7cd479175915a5a00281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash_0.controller using Guid(c5aaf0ef167a7cd479175915a5a00281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4906f0117e9df58b3b498518d222703f') in 0.005359 seconds
+  Import took 0.011127 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.674 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.8 MB.
+System memory in use after: 101.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2709.
+Total: 4.231800 ms (FindLiveObjects: 0.232000 ms CreateObjectMapping: 0.101900 ms MarkObjects: 3.775900 ms  DeleteObjects: 0.120800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.980298 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f70a7fb83313811798d1fdc9c52f7a5') in 0.014675 seconds
+  Import took 0.019647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077600 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f70a7fb83313811798d1fdc9c52f7a5') in 0.003477 seconds
+  Import took 0.007812 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.468 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 101.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2713.
+Total: 2.388300 ms (FindLiveObjects: 0.233000 ms CreateObjectMapping: 0.099600 ms MarkObjects: 1.943100 ms  DeleteObjects: 0.111600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 183.596884 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3bb7f7fa68999139cae54bd01bf076') in 0.080668 seconds
+  Import took 0.092825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.825266 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d5d36d26524930b9b1a03cfc7eeeca') in 0.032180 seconds
+  Import took 0.044476 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2718.
+Total: 3.313000 ms (FindLiveObjects: 0.317900 ms CreateObjectMapping: 0.155900 ms MarkObjects: 2.712700 ms  DeleteObjects: 0.125200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.597881 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9868f608ae5711c150245661642de163') in 0.018866 seconds
+  Import took 0.035455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f09e09dd48cdc87d6ccfaf666d0f99') in 0.072055 seconds
+  Import took 0.076428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.780537 seconds.
+  path: Assets/Art/Attacks/Slash.png
+  artifactKey: Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.png using Guid(9e53a12039362b34aace8e4f35fbe0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edaa5497feae8a488a74bafb0b8f65fd') in 0.030256 seconds
+  Import took 0.072169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.279973 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6899a3f7e7d76a4910ee6d87102a7683') in 0.003934 seconds
+  Import took 0.007767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005941 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6899a3f7e7d76a4910ee6d87102a7683') in 0.005979 seconds
+  Import took 0.013854 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.511 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 101.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2723.
+Total: 4.547300 ms (FindLiveObjects: 0.251900 ms CreateObjectMapping: 0.132500 ms MarkObjects: 4.041700 ms  DeleteObjects: 0.119800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.984833 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf1f1436ecfc1ce759f644b81731f57') in 0.019347 seconds
+  Import took 0.023145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076965 seconds.
+  path: Assets/Art/Attacks/Slash.anim
+  artifactKey: Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Attacks/Slash.anim using Guid(63cad2ce4e2881c4299d5bc22eae44f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf1f1436ecfc1ce759f644b81731f57') in 0.002246 seconds
+  Import took 0.007549 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.983 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2727.
+Total: 3.893800 ms (FindLiveObjects: 0.292200 ms CreateObjectMapping: 0.120500 ms MarkObjects: 3.355400 ms  DeleteObjects: 0.124600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.414346 seconds.
+  path: Assets/Prefab/Attacks/Slash_0.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash_0.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b73b45424cd756ed86bf078754b857') in 0.102810 seconds
+  Import took 0.127468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.709495 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc995aa02e2e705122684244306e15d4') in 0.018899 seconds
+  Import took 0.084255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.842327 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ecb5affc60b37ce4bb405ec9fee5e1') in 0.011484 seconds
+  Import took 0.029497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.000990 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e54003a5916aa6c722be9ca89934c4') in 0.016250 seconds
+  Import took 0.040153 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.464 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2732.
+Total: 2.637500 ms (FindLiveObjects: 0.240000 ms CreateObjectMapping: 0.110400 ms MarkObjects: 1.971100 ms  DeleteObjects: 0.315000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.670495 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd8efe3b3f1915dccc1325541ff9801') in 0.068889 seconds
+  Import took 0.073096 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004935 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2737.
+Total: 3.661300 ms (FindLiveObjects: 0.213700 ms CreateObjectMapping: 0.084700 ms MarkObjects: 3.195000 ms  DeleteObjects: 0.166100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.081727 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff408df9111a97ba280052fdb9635a4') in 0.067939 seconds
+  Import took 0.072003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.332621 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2f5bd175b5c423c51e5033d7b2a2ee') in 0.012063 seconds
+  Import took 0.016966 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004002 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2742.
+Total: 2.574100 ms (FindLiveObjects: 0.217400 ms CreateObjectMapping: 0.095800 ms MarkObjects: 2.124400 ms  DeleteObjects: 0.135300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.673793 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cb07c6f5e37e6a825f12650491b84c') in 0.085519 seconds
+  Import took 0.091887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132334 seconds.
+  path: Assets/Prefab/Attacks/Slash.prefab
+  artifactKey: Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Attacks/Slash.prefab using Guid(19e19aaf74e81ad408d2f6ed9d4e4a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cb07c6f5e37e6a825f12650491b84c') in 0.011649 seconds
+  Import took 0.018844 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.344 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2747.
+Total: 2.479500 ms (FindLiveObjects: 0.230200 ms CreateObjectMapping: 0.105300 ms MarkObjects: 2.002500 ms  DeleteObjects: 0.140400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
